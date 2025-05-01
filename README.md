@@ -1,4 +1,3 @@
-<img align= "center" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 <h1 align= "center">Hi! Welcome To My Github Profile</h1>
 
+<div class="tenor-gif-embed" data-postid="7137479751169960912" data-share-method="host" data-aspect-ratio="1.01852" data-width="100%"><a href="https://tenor.com/view/happy-friday-penguin-dancing-animal-happy-gif-7137479751169960912">Happy Friday Penguin Sticker</a>from <a href="https://tenor.com/search/happy+friday-stickers">Happy Friday Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
