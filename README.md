@@ -6,3 +6,6 @@ I mainly work with technologies like **Node.js**, **Express**, **Python**, **Tai
 
 I'm currently at an **intermediate level** — beyond beginner — and always learning something new to improve my skills.
 </samp>
+<div align="center">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Riccicim?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+</div>
