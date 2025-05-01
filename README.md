@@ -3,8 +3,7 @@
 <h1 align= "center">Hi! Welcome To My Github Profile</h1>
 <p align="center">
 <samp>I'm a self-taught developer with a strong interest in **web development** and a growing curiosity in **mobile applications**.  
-I mainly work with technologies like **Node.js**, **Express**, **Python**, **TailwindCSS**, and **Bootstrap**.  
-
+I mainly work with technologies like **Node.js**, **Express**, **Python**, **TailwindCSS**, and **Bootstrap**.
 I'm currently at an **intermediate level** — beyond beginner — and always learning something new to improve my skills.
 </samp>
 </p>
