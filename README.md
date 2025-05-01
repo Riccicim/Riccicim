@@ -1,1 +1,2 @@
-<samp> " Hi ı am Yigit " </samp>
+<samp> " Hi ı'm Yigit " </samp>
+Hi ı'm Yigit
