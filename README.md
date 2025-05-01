@@ -1,3 +1,3 @@
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://tenor.com/tr/view/happy-friday-penguin-dancing-animal-happy-gif-7137479751169960912" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <samp align= "center"> " Hi ı'm Yigit " </samp>
 
